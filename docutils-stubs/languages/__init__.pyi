@@ -4,6 +4,7 @@
 
 from types import ModuleType
 from typing import Optional
+
 from docutils.utils import Reporter
 
 __docformat__: str
